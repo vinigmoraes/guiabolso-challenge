@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+
+  guiabolso-challenge-app:
+    container_name: guiabolso-challenge-app
+    build: .
+    volumes:
+      - ./build/libs/:/app
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_PROFILES_ACTIVE: development
