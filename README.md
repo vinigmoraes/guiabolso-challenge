@@ -41,7 +41,7 @@ cd guiabolso-challenge
 
 ## Continuous Integration
 
-Continuous Integration is configured on CircleCI. Checkout the [continuous integration here](https://circleci.com/gh/marioalvial/moip-challenge)
+Continuous Integration is configured on CircleCI. Checkout the [continuous integration here](https://circleci.com/gh/vinigmoraes/guiabolso-challenge)
 
 ##  Testing
 
