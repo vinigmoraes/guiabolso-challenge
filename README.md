@@ -1,10 +1,10 @@
-## Demo
-
-https://guiabolso-challenge.herokuapp.com/
+Technical challenge for GuiaBolso selective process
 
 [![CircleCI](https://circleci.com/gh/vinigmoraes/guiabolso-challenge.svg?style=svg)](https://circleci.com/gh/vinigmoraes/guiabolso-challenge)
 
-Technical challenge for GuiaBolso selective process
+## Demo
+
+https://guiabolso-challenge.herokuapp.com/
 
 ## Requirements
 
